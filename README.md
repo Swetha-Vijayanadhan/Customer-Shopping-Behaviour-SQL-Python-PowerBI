@@ -82,4 +82,4 @@ The dataset contains customer transaction data including:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard/customer_dashboard.png)
+![Dashbaord](dashboard/Customer-Shopping dashbaord.png)
