@@ -21,7 +21,6 @@ This project aims to answer these questions through structured data analysis and
 📊 Dataset Description
 
 The dataset contains customer transaction data including:
-
 Customer demographics (Age, Gender, Location)
 Product details (Category, Item, Size, Color)
 Purchase behavior (Amount, Frequency, Season)
