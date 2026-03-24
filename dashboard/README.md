@@ -12,4 +12,4 @@ This folder contains the Power BI dashboard used to analyze customer purchasing 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard/Customer-Shopping dashboard.png)
+![Dashboard](dashboard/Customer-Shopping%20dashboard.png)
